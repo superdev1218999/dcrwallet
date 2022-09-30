@@ -1,0 +1,12 @@
+cmd/movefunds/movefunds
+cmd/sweepaccount/sweepaccount
+/dcrwallet
+vendor
+*~
+.vscode
+.idea
+rpc/tools/bin/
+*.sw*
+rpc/grpc_example/grpc_example
+rpc/grpc_example/*.pem
+rpc/rpc_example/rpc_example
